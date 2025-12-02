@@ -1,0 +1,22 @@
+Scenario: A user accidentally deletes a file but remembers it was last edited 10 minutes ago in /home/user/docs.
+Question: How would you check if any backup or previous versions exist?
+
+Scenario: The system shows “No space left on device,” but the user thinks there's still space.
+Question: How do you diagnose the issue?
+
+Scenario: A script (backup.sh) won’t execute and gives “Permission denied.”
+Question: What steps would you take?
+
+Scenario: System is slow and fan is loud.
+Question: How do you find the process causing high CPU usage?
+
+Scenario: Applications crash with “Out of Memory.”
+Question: How do you find the cause?
+
+Scenario: You forgot which directory you are currently in.
+Question: How do you check your present working directory?
+
+Scenario: You want to rename oldname.txt to newname.txt.
+Question: What command do you run?
+
+Plz send the solutions to selenium.saikrishna@gmail.com	
